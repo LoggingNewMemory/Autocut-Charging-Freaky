@@ -1,29 +1,38 @@
 #!/system/bin/sh
 
-ui_print "🔋----------------------------------------------🔋"
-ui_print "   Tecno Pova 5 Pro Ambatucut Charging Oohhshit   "
-ui_print "🔋----------------------------------------------🔋"
-ui_print " By: Ambanazerealnofake With Ambagawa Rusdiyamada "
-ui_print "--------------------------------------------------"
-ui_print "    Dont Read The Telegram Massage Or Be Freaky   "
-ui_print "--------------------------------------------------"
+ui_print "🔋----------------------------------🔋"
+ui_print "      Tecno Pova 5 Pro Ambatucut      "
+ui_print "          Charging Oohhshit           "
+ui_print "🔋----------------------------------🔋"
+ui_print "        By: Ambanazerealnofake        "
+ui_print "       With Ambagawa Rusdiyamada      "
+ui_print "--------------------------------------"
+ui_print "        Dont Read The Telegram        " 
+ui_print "         Massage Or Be Freaky         "
+ui_print "--------------------------------------"
 ui_print " "
 
 sleep 3
-ui_print "--------------------------------------------------"
-ui_print "         Injecting Air Muani to Lh8nigger         "
-ui_print "--------------------------------------------------"
+ui_print "--------------------------------------"
+ui_print "  Injecting Air Muani to Lh8nigger    "
+ui_print "--------------------------------------"
 sleep 3
 
-ui_print "--------------------------------------------------"
-ui_print "          Injecting Successfully Complete         "
-ui_print "                Ahh Ambatubassssing               "
-ui_print "--------------------------------------------------"
+ui_print "--------------------------------------"
+ui_print "   Injecting Successfully Complete    "
+ui_print "         Ahh Ambatubassssing          "
+ui_print "--------------------------------------"
 
-sleep 1
+sleep 3
 ui_print " "
-ui_print "please nut your phone so this module will work ahhhhh"
-ui_print " if you not nut on your phone i will touch you >:) "
+ui_print "--------------------------------------"
+ui_print "    Please Nut Your Phone So This     "
+ui_print "        Module Will Work Ahhhhh       "
+ui_print "--------------------------------------"
+ui_print "     If You Not Nut On Your Phone     "
+ui_print "         I Will Touch You >:)         "
+ui_print "--------------------------------------"
+
 sleep 3
 
 unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
